@@ -7,3 +7,8 @@ Ben devreyi kablolardan kurtulmak için Delikli Bakır plaket üzerine lehimledi
 
 # Raspberry Pi Pico DataSheet
 <img width="2500" height="1500" alt="image" src="https://github.com/user-attachments/assets/fdbe2b30-c0cd-4db2-9da0-aca281762790" />
+
+# Dosyaları Raspberry Pi Pico'a Yükleme
+Raspberry Pi Pico'a indirdiğiniz her 2 dosyayı yüklemek için Sırayla Raspberry Pico'nun üzerindeki  "BOOTSEL" tuşuna basılı tutarak Pico USB kablosunu bilgisayarınıza bağlayın ardından ilk önce "sample-config-V2-9341TFT.uf2" dosyasını Pico ya yükleyin ardından MakeCode Arcade platforumndan yapmış olduğunuz ".uf2" formatındaki oyununuzuda aynı şekilde Pico'a yükleyin
+
+ben 1 adet deneme oyunu paylaştım test amaçlı oyun kodlamayı bilmiyorsanız deneyip oynayabilirsiniz
